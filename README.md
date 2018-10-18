@@ -1,5 +1,7 @@
-# YT-Comment-Top-Creator
+# YT Comment Top Creator
 Collect youtube comments, sort, write to file.
+
+Python 3.7
 
 How to use:
 0) configurate 'client_secret.json'
