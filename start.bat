@@ -1,0 +1,2 @@
+python ctc.py
+pause
